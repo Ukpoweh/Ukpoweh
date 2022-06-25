@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Ukpoweh
 - 👀 I’m interested in Web development, Data science.
-- I'm a pythonista.
-- 🌱 I’m currently learning Frontend(HTML, CSS and JS)
-- 📫 How to reach me 
+- ⭐ I'm a pythonista.
+- 🌀 I love to use data to solve problems.
+- 🌱 I’m currently learning Frontend development (HTML, CSS and JS)
+- 📫 How to reach me: 
 LINKEDIN: https://www.linkedin.com/in/gift-onome-90510022a
 
 <!---
