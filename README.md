@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Ukpoweh
-- 👀 I’m interested in Web development, Data science.
-- ⭐ I'm a pythonista.
+- 👀 I’m enthusiastic about Web development, Data science and Machine learning
+- ⭐ I'm familiar with python programming language, HTML and CSS.
 - 🌀 I love to use data to solve problems.
-- 🌱 I’m currently learning Frontend development (HTML, CSS and JS)
+- 🌱 I’m committed to honing my skills daily and I would also love to collaborate with smart minds.
 - 📫 How to reach me: 
-LINKEDIN: https://www.linkedin.com/in/gift-onome-90510022a
+LINKEDIN: https://www.linkedin.com/in/gift-ukpoweh-90510022a
 
 <!---
 Ukpoweh/Ukpoweh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
