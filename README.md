@@ -5,6 +5,7 @@
 - 🌱 I’m committed to honing my skills daily and I would also love to collaborate with smart minds.
 - 📫 How to reach me: 
 LINKEDIN: https://www.linkedin.com/in/gift-ukpoweh-90510022a
+EMAIL: ukpowehgift@gmail.com
 
 <!---
 Ukpoweh/Ukpoweh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
