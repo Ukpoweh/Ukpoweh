@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ukpoweh
+- 👋 Hi, I’m Ukpoweh Gift
 - 👀 I’m enthusiastic about Web development, Data science and Machine learning
 - ⭐ I'm familiar with python programming language, HTML and CSS.
 - 🌀 I love to use data to solve problems.
