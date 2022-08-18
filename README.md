@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Ukpoweh Gift
-- 👀 I’m enthusiastic about Web development, Data science and Machine learning
+- 👋 Hi, I’m Ukpoweh Gift.
+- 👀 I’m enthusiastic about Web development, Data science and Machine learning.
 - ⭐ I'm familiar with python programming language, HTML and CSS.
 - 🌀 I love to use data to solve problems.
 - 🌱 I’m committed to honing my skills daily and I would also love to collaborate with smart minds.
