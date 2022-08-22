@@ -8,6 +8,7 @@
 - 📫 How to reach me: 
 LINKEDIN https://www.linkedin.com/in/gift-ukpoweh-90510022a
 EMAIL: ukpowehgift@gmail.com
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ukpoweh&show_icons=true)
 
 <!---
 Ukpoweh/Ukpoweh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
