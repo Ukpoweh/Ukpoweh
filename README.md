@@ -1,10 +1,10 @@
 <img src=https://github.com/Ukpoweh/Ukpoweh/blob/main/header.png>
 
 - 👋 Hi, I’m Ukpoweh Gift.
-- 👀 I’m enthusiastic about Web development, Data science and Machine learning.
-- ⭐ I'm familiar with Python, HTML, and CSS.
+- 👀 I’m a Data scientist and also a budding Machine Learning Engineer with background in Web development.
+- ⭐ I'm familiar with Python, Excel, and SQL for efficient data analysis, manipulation, visualization, modelling.
 - 🌀 I love to use data to solve problems.
-- 🎖 I'm currently learning Javascript for Web development.
+- 🎖 I'm currently exploring the world of machine learning.
 - 🌱 I’m committed to honing my skills daily and I would also love to collaborate with smart minds.
 - 📫 How to reach me:<br>
 ![LINKEDIN](https://www.linkedin.com/in/gift-ukpoweh-90510022a)
