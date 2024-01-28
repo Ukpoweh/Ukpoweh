@@ -1,15 +1,13 @@
 <!---<img src=https://github.com/Ukpoweh/Ukpoweh/blob/main/header.png>--->
-# Welcome!
+# Data Science | Machine Learning | Artificial Intelligence
 
-- 👋 Hi, I’m Ukpoweh Gift.
-- 👀 I’m a Data scientist and also a budding Machine Learning Engineer with background in Web development.
-- ⭐ I'm familiar with Python, Excel, and SQL for efficient data analysis, manipulation, visualization, modelling.
-- 🌀 I love to use data to solve problems.
-- 🎖 I'm currently exploring the world of machine learning.
-- 🌱 I’m committed to honing my skills daily and I would also love to collaborate with smart minds.
-- 📫 How to reach me:
-[LinkedIn](https://www.linkedin.com/in/gift-ukpoweh-90510022a)
-[Email](ukpowehgift@gmail.com)
+## Hi, I'm a Data Scientist with expertise in the development of AI-powered products and solutions
+## I help startups, businesses, and enterprises to make data-driven decisions and build AI-centered solutions.
+## I'm also a technical writer with expertise in crafting content centered on ML and AI.
+- Check out my blog on [Medium](https://medium.com/@ukpowehonome)
+- You can also contact me at ukpowehgift@gmail.com
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ukpoweh&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ukpoweh&layout=compact)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ukpoweh)](https://git.io/streak-stats)
