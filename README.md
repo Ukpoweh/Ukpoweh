@@ -2,7 +2,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gift Ukpoweh
 ====================================================================================================================================
 
-Data Scientist | Machine Learning Engineer
+Data Scientist | Machine Learning Engineer | Technical Writer
 ------------------------------------------
 
 I'm a Data Scientist with expertise in the development of AI-powered products and solutions. I help startups, businesses, and enterprises to make data-driven decisions and build AI-centered solutions. I'm also a technical writer with expertise in crafting content centered on ML and AI.
